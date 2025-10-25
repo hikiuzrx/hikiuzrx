@@ -78,8 +78,8 @@ const hikiZRX = {
 <!-- Streak Stats -->
 <img src="https://streak-stats.demolab.com/?user=hikiuzrx&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F85D7F" />
 
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hikiuzrx&custom_title=Contribution%20Activity%20Graph&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=F85D7F&line=F8D866&point=C9D1D9" />
+<!-- Contribution Graph -->
+<img src="https://ghchart.rshah.org/F85D7F/hikiuzrx" alt="GitHub Contribution Chart" width="100%" />
 
 <!-- Trophy Display -->
 <img src="https://github-profile-trophy.vercel.app/?username=hikiuzrx&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" />
