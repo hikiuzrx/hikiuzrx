@@ -78,8 +78,7 @@ const hikiZRX = {
 <!-- Streak Stats -->
 <img src="https://streak-stats.demolab.com/?user=hikiuzrx&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F85D7F" />
 
-<!-- Trophy Display -->
-<img src="https://github-profile-trophy.vercel.app/?username=hikiuzrx&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" />
+</div>
 
 </div>
 
