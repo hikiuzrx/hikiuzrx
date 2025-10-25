@@ -244,41 +244,41 @@ Latency: <50ms p99
 <!-- Skills Matrix -->
 <div align="center">
 
-## 💎 **Expertise Matrix**
-
-<table>
-<tr>
-<td align="center" width="33%">
-
-### 🏗️ **Distributed Systems**
-<img src="https://progress-bar.dev/95/?title=Architecture&width=200&color=f85d7f" alt="Architecture" />
-<img src="https://progress-bar.dev/92/?title=Scalability&width=200&color=f8d866" alt="Scalability" />
-<img src="https://progress-bar.dev/90/?title=Load_Balancing&width=200&color=4ecdc4" alt="Load Balancing" />
-<img src="https://progress-bar.dev/88/?title=Service_Mesh&width=200&color=95e1d3" alt="Service Mesh" />
-
-</td>
-<td align="center" width="33%">
-
-### ⚡ **Microservices**
-<img src="https://progress-bar.dev/94/?title=API_Gateway&width=200&color=f85d7f" alt="API Gateway" />
-<img src="https://progress-bar.dev/91/?title=Service_Comm&width=200&color=f8d866" alt="Service Communication" />
-<img src="https://progress-bar.dev/89/?title=Orchestration&width=200&color=4ecdc4" alt="Orchestration" />
-<img src="https://progress-bar.dev/93/?title=gRPC_REST&width=200&color=95e1d3" alt="gRPC & REST" />
-
-</td>
-<td align="center" width="33%">
-
-### 🔥 **Real-Time Systems**
-<img src="https://progress-bar.dev/96/?title=WebSocket&width=200&color=f85d7f" alt="WebSocket" />
-<img src="https://progress-bar.dev/93/?title=Event_Stream&width=200&color=f8d866" alt="Event Streaming" />
-<img src="https://progress-bar.dev/90/?title=Pub_Sub&width=200&color=4ecdc4" alt="Pub/Sub" />
-<img src="https://progress-bar.dev/92/?title=Message_Queue&width=200&color=95e1d3" alt="Message Queue" />
-
-</td>
-</tr>
-</table>
+## 💎 **Core Competencies**
 
 </div>
+
+### 🏗️ Distributed Systems Architecture
+```diff
++ System Design & Scalability    ████████████████████░ 95%
++ Load Balancing & High Availability    ████████████████████░ 92%
++ Service Mesh & Network Optimization   ████████████████████░ 90%
++ Fault Tolerance & Circuit Breakers    ████████████████████░ 88%
+```
+
+### ⚡ Microservices & API Design
+```diff
++ RESTful & GraphQL APIs         ████████████████████░ 94%
++ gRPC & Event-Driven Systems    ████████████████████░ 93%
++ API Gateway & Service Discovery████████████████████░ 91%
++ Container Orchestration        ████████████████████░ 89%
+```
+
+### 🔥 Real-Time & Event Streaming
+```diff
++ WebSocket & Server-Sent Events ████████████████████░ 96%
++ Apache Kafka & Message Queues  ████████████████████░ 93%
++ Pub/Sub Architectures          ████████████████████░ 92%
++ Real-Time Data Processing      ████████████████████░ 90%
+```
+
+### 🗄️ Database & Caching Strategies
+```diff
++ SQL Optimization & Query Design████████████████████░ 93%
++ NoSQL & Document Stores        ████████████████████░ 91%
++ Redis & Distributed Caching    ████████████████████░ 94%
++ Database Sharding & Replication████████████████████░ 88%
+```
 
 <br/>
 
@@ -286,20 +286,7 @@ Latency: <50ms p99
 
 <br/>
 
-<!-- Contribution Graph -->
-<div align="center">
 
-## 🌟 **Contribution Timeline**
-
-<img src="https://ghchart.rshah.org/F85D7F/hikiuzrx" alt="GitHub Contribution Chart" width="100%" />
-
-</div>
-
-<br/>
-
----
-
-<br/>
 
 <!-- Organizations -->
 <div align="center">
