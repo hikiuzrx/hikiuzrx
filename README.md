@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=HIKI%20ZRX&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff&desc=Backend%20Architect%20%7C%20Distributed%20Systems%20Engineer&descAlignY=55&descSize=20"/>
 
 <!-- Typing Animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Building+Scalable+Distributed+Systems;Event-Driven+Architecture+Expert;Microservices+%7C+Real-Time+Systems;Performance+%2B+Reliability+%3D+Obsession" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Building+Scalable+Distributed+Systems;Event-Driven+Architecture+Expert;Microservices+%7C+Real-Time+Systems;Performance+%2B+Reliability+%3D+Obsession" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -30,7 +30,7 @@
 
 <!-- About Section with Cool Gradient -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=440&lines=👨‍💻+Ramzi+%22Hiki+ZRX%22+Gueracha" alt="Name Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=440&lines=👨‍💻+Ramzi+%22Hiki+ZRX%22+Gueracha" alt="Name Animation" />
 </div>
 
 <br/>
@@ -71,15 +71,15 @@ const hikiZRX = {
 ## 📊 **GitHub Analytics**
 
 <p>
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hikiuzrx&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=C9D1D9"/>
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=hikiuzrx&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=C9D1D9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hikiuzrx&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=C9D1D9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hikiuzrx&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=C9D1D9"/>
 </p>
 
 <!-- Streak Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hikiuzrx&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F85D7F" />
+<img src="https://streak-stats.demolab.com/?user=hikiuzrx&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F85D7F" />
 
 <!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hikiuzrx&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=F85D7F&line=F8D866&point=C9D1D9" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hikiuzrx&custom_title=Contribution%20Activity%20Graph&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=F85D7F&line=F8D866&point=C9D1D9" />
 
 <!-- Trophy Display -->
 <img src="https://github-profile-trophy.vercel.app/?username=hikiuzrx&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" />
@@ -306,7 +306,7 @@ Latency: <50ms p99
 
 ## 🌐 **Community & Organizations**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=4ECDC4&center=true&vCenter=true&width=700&lines=Active+contributor+across+multiple+tech+organizations" alt="Organizations" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=4ECDC4&center=true&vCenter=true&width=700&lines=Active+contributor+across+multiple+tech+organizations" alt="Organizations" />
 
 <br/><br/>
 
@@ -411,7 +411,7 @@ Security:
 <!-- Footer -->
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=95E1D3&center=true&vCenter=true&width=600&lines=Building+tomorrow's+systems+today+%F0%9F%9A%80;Code+with+passion%2C+architect+with+precision;Always+learning%2C+always+evolving" alt="Footer Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=95E1D3&center=true&vCenter=true&width=600&lines=Building+tomorrow's+systems+today+🚀;Code+with+passion%2C+architect+with+precision;Always+learning%2C+always+evolving" alt="Footer Animation" />
 
 <br/><br/>
 
