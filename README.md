@@ -30,7 +30,7 @@
 
 <!-- About Section with Cool Gradient -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=440&lines=👨‍💻+Ramzi+%22Hiki+ZRX%22+Gueracha" alt="Name Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=440&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Ramzi+%22Hiki+ZRX%22+Gueracha" alt="Name Animation" />
 </div>
 
 <br/>
@@ -71,14 +71,15 @@ const hikiZRX = {
 ## 📊 **GitHub Analytics**
 
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hikiuzrx&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=C9D1D9&cache_seconds=1800"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hikiuzrx&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=C9D1D9&cache_seconds=1800"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hikiuzrx&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=C9D1D9&icon_color=F8D866" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hikiuzrx&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=C9D1D9" />
 </p>
 
 <!-- Streak Stats -->
 <img src="https://streak-stats.demolab.com/?user=hikiuzrx&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F85D7F" />
 
-</div>
+<!-- Trophy Display -->
+<img src="https://github-profile-trophy.vercel.app/?username=hikiuzrx&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" />
 
 </div>
 
@@ -289,7 +290,7 @@ Latency: <50ms p99
 
 ## 🌐 **Community & Organizations**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=4ECDC4&center=true&vCenter=true&width=700&lines=Active+contributor+across+multiple+tech+organizations" alt="Organizations" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=4ECDC4&center=true&vCenter=true&width=700&lines=Active+contributor+across+multiple+tech+organizations" alt="Organizations Animation" />
 
 <br/><br/>
 
@@ -394,7 +395,7 @@ Security:
 <!-- Footer -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=95E1D3&center=true&vCenter=true&width=600&lines=Building+tomorrow's+systems+today+🚀;Code+with+passion%2C+architect+with+precision;Always+learning%2C+always+evolving" alt="Footer Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=95E1D3&center=true&vCenter=true&width=600&lines=Building+tomorrow's+systems+today+%F0%9F%9A%80;Code+with+passion,+architect+with+precision" alt="Footer Animation" />
 
 <br/><br/>
 
