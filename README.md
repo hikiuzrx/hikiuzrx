@@ -46,16 +46,7 @@ const hikiZRX = {
         architecture: "Design systems that scale infinitely",
         performance: "Speed is not optional, it's mandatory",
         reliability: "99.99% uptime or bust 🚀"
-    },
-    
-    dailyRoutine: [
-        "☕ Coffee++",
-        "🏗️ Architect distributed systems",
-        "⚡ Optimize performance bottlenecks",
-        "🔥 Ship production-grade code",
-        "📚 Learn something new",
-        "🌙 Dream in microservices"
-    ]
+    }
 };
 ```
 
@@ -201,6 +192,70 @@ Impact: Thousands of lives saved
 </details>
 
 <details>
+<summary><b>🎥 VAST - Real-Time Collaboration Platform</b></summary>
+<br/>
+
+> **Microservices-Based Collaboration System** — Built for low-latency communication at scale
+
+```yaml
+Architecture: Distributed Microservices Platform
+Media Layer: WebRTC SFU in Go
+Concurrency: Goroutines + Channel-Based Routing
+Security: Casbin Access Control + AuthN/AuthZ
+Observability: Centralized Audit Logging
+Data: PostgreSQL + ClickHouse
+```
+
+**Tech Stack:**
+<p>
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+<img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white"/>
+<img src="https://img.shields.io/badge/Casbin-409EFF?style=for-the-badge&logo=&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=black"/>
+<img src="https://img.shields.io/badge/Microservices-0A0A0A?style=for-the-badge&logo=&logoColor=white"/>
+</p>
+
+**Core Highlights:**
+- 🧩 **Microservices Design** — Independent services for scalable collaboration flows
+- ⚡ **High-Performance SFU** — Optimized media forwarding and connection handling
+- 🔐 **Policy-Driven Security** — Casbin-based access control integrated with authentication
+- 🧾 **Audit-First Architecture** — Centralized logs across services for traceability
+
+</details>
+
+<details>
+<summary><b>🛰️ RedSentinel - Redis Observability Platform</b></summary>
+<br/>
+
+> **Real-time Redis Observability & Command Tracing System** — Full visibility into Redis workloads
+
+```yaml
+Domain: Redis / Redis Cluster Observability
+Streaming: NATS JetStream Event Backbone
+Storage: Structured Command Logs in SQLite
+Monitoring: Prometheus + Grafana
+Focus: Incident Analysis + Workload Visibility
+```
+
+**Tech Stack:**
+<p>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/NATS_JetStream-27AAE1?style=for-the-badge&logo=natsdotio&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+</p>
+
+**Core Features:**
+- 🔍 Capture Redis commands across standalone and cluster deployments
+- 📡 Durable event streaming and replay via JetStream
+- 🗂️ Queryable command traces for dashboards and analytics
+- 🧠 Cluster-aware visibility across nodes, slots, and replica topology
+
+</details>
+
+<details>
 <summary><b>🔔 SkyBell - Notification Infrastructure</b></summary>
 <br/>
 
@@ -314,45 +369,6 @@ Latency: <50ms p99
 
 <!-- GitHub Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=hikiuzrx&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=F85D7F&line=F8D866&point=F85D7F" />
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
-<!-- Philosophy Section -->
-<div align="center">
-
-## 💭 **Engineering Philosophy**
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Great%20software%20is%20invisible.%20It%20works%20flawlessly,%20scales%20infinitely,%20and%20solves%20real%20problems.&author=Hiki%20ZRX" />
-
-<br/><br/>
-
-```yaml
-Code Quality:
-  - Clean, self-documenting code
-  - Comprehensive test coverage
-  - Continuous refactoring
-
-Architecture:
-  - Design for scale from day one
-  - Embrace distributed patterns
-  - Fail fast, recover faster
-
-Performance:
-  - Optimize critical paths
-  - Monitor everything
-  - Sub-100ms response times
-
-Security:
-  - Zero-trust architecture
-  - Defense in depth
-  - Encrypt everything
-```
 
 </div>
 
