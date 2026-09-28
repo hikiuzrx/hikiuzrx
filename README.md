@@ -4,21 +4,12 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=HIKI%20ZRX&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff&desc=Backend%20Architect%20%7C%20Distributed%20Systems%20Engineer&descAlignY=55&descSize=20"/>
 
 <!-- Typing Animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Building+Scalable+Distributed+Systems;Event-Driven+Architecture+Expert;Microservices+%7C+Real-Time+Systems;Performance+%2B+Reliability+%3D+Obsession" alt="Typing SVG" /></a>
-
-<br/>
-
-<!-- Fancy Badges with Animation -->
-<img src="https://img.shields.io/badge/Backend_Architect-Expert-ff6b6b?style=for-the-badge&logo=&logoColor=white" />
-<img src="https://img.shields.io/badge/Distributed_Systems-Pro-4ecdc4?style=for-the-badge&logo=&logoColor=white" />
-<img src="https://img.shields.io/badge/Microservices-Specialist-95e1d3?style=for-the-badge&logo=&logoColor=white" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Building+Scalable+Distributed+Systems;Event-Driven+Architecture;Microservices+%7C+Real-Time+Systems;AI-Powered+Backends" alt="Typing SVG" /></a>
 
 <br/><br/>
 
-<!-- Profile Stats -->
 <img src="https://komarev.com/ghpvc/?username=hikiuzrx&color=blueviolet&style=for-the-badge&label=PROFILE+VISITORS" />
 <img src="https://img.shields.io/github/followers/hikiuzrx?style=for-the-badge&color=blue&label=FOLLOWERS&logo=github" />
-<img src="https://img.shields.io/github/stars/hikiuzrx?style=for-the-badge&color=yellow&label=TOTAL+STARS&logo=github" />
 
 </div>
 
@@ -28,51 +19,13 @@
 
 <br/>
 
-<!-- About Section with Cool Gradient -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=440&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Ramzi+%22Hiki+ZRX%22+Gueracha" alt="Name Animation" />
 </div>
 
 <br/>
 
-```typescript
-const hikiZRX = {
-    role: "Backend Architect & Distributed Systems Engineer",
-    location: "🌍 Building the future, one microservice at a time",
-    currentFocus: "Event-Driven Architecture & Real-Time Systems",
-    
-    philosophy: {
-        code: "Write code that speaks for itself",
-        architecture: "Design systems that scale infinitely",
-        performance: "Speed is not optional, it's mandatory",
-        reliability: "99.99% uptime or bust 🚀"
-    }
-};
-```
-
-<br/>
-
----
-
-<br/>
-
-<!-- GitHub Stats with Animations -->
-<div align="center">
-  
-## 📊 **GitHub Analytics**
-
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hikiuzrx&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=C9D1D9&icon_color=F8D866" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hikiuzrx&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=C9D1D9" />
-</p>
-
-<!-- Streak Stats -->
-<img src="https://streak-stats.demolab.com/?user=hikiuzrx&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F85D7F" />
-
-<!-- Trophy Display -->
-<img src="https://github-profile-trophy.vercel.app/?username=hikiuzrx&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" />
-
-</div>
+Backend engineer focused on **distributed systems**, **event-driven architecture** and **real-time platforms**. I build microservices in NestJS, FastAPI and Go, wire them together with NATS JetStream, Kafka and gRPC, and increasingly put AI agents on top of them.
 
 <br/>
 
@@ -92,10 +45,29 @@ const hikiZRX = {
 
 ### **Backend & Frameworks**
 <p>
-<img src="https://skillicons.dev/icons?i=nestjs,fastapi,express,dotnet,nodejs,kafka,laravel&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nestjs,fastapi,express,dotnet,nodejs,laravel&theme=dark" />
+</p>
+
+### **Messaging & Real-Time**
+<p>
+<img src="https://img.shields.io/badge/NATS_JetStream-27AAE1?style=for-the-badge&logo=natsdotio&logoColor=white" />
+<img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
+<img src="https://img.shields.io/badge/gRPC-244c5a?style=for-the-badge&logo=grpc&logoColor=white" />
+<img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
+<img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white" />
+<img src="https://img.shields.io/badge/BullMQ-FF6B6B?style=for-the-badge" />
+</p>
+
+### **Databases & Caching**
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite,prisma&theme=dark" />
 </p>
 <p>
-<img src="https://img.shields.io/badge/gRPC-244c5a?style=for-the-badge&logo=grpc&logoColor=white" alt="gRPC" />
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+<img src="https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apachecassandra&logoColor=white" />
+<img src="https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=black" />
+<img src="https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=influxdb&logoColor=white" />
+<img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge" />
 </p>
 
 ### **Frontend & UI**
@@ -103,14 +75,9 @@ const hikiZRX = {
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,sass&theme=dark" />
 </p>
 
-### **Databases & Caching**
+### **DevOps & Cloud**
 <p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite,prisma&theme=dark" />
-</p>
-
-### **DevOps & Tools**
-<p>
-<img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,vscode,linux,postman&theme=dark" />
+<img src="https://skillicons.dev/icons?i=docker,aws,gcp,git,github,githubactions,linux,postman&theme=dark" />
 </p>
 
 </div>
@@ -129,16 +96,53 @@ const hikiZRX = {
 </div>
 
 <details open>
+<summary><b>📜 Derham - AI-Driven Contract Lifecycle Management</b></summary>
+<br/>
+
+> **From upload to decision** — reads contracts, checks them against your own policies, and gives teams a real review workflow
+
+```yaml
+Ingestion: DOCX, PDF, scanned documents (OCR), pasted text
+AI Pipeline: Clause segmentation → contract classification → policy compliance
+Messaging: NATS JetStream job queue feeding extraction & compliance workers
+Retrieval: Policy clauses embedded in Qdrant
+Models: Local Ollama by default, or Qwen on a self-hosted vLLM GPU with automatic fallback
+```
+
+**Tech Stack:**
+<p>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/NATS_JetStream-27AAE1?style=for-the-badge&logo=natsdotio&logoColor=white"/>
+<img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge&logo=minio&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white"/>
+<img src="https://img.shields.io/badge/vLLM-30A2FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+</p>
+
+**Key Features:**
+- 🔍 **Clause-level analysis** — segments contracts and scores each clause against a policy library with cited findings
+- 🤖 **Provider-agnostic LLM layer** — one model factory for Ollama, vLLM, OpenAI, Anthropic, Google or any OpenAI-compatible endpoint
+- 👥 **Review workflow** — comments, @mentions, reviewer sign-off and conflict-safe editing
+- 🧾 **Tamper-evident activity log** — every action on a contract is traceable
+- 💬 **AI chat agent** — reaches data only through a permission-enforcing MCP bridge
+- ⚡ **Live updates** — SSE streaming from backend to UI
+
+🔗 [Repository](https://github.com/wailbentafat/Contract-Lifecycle-Management)
+
+</details>
+
+<details>
 <summary><b>🤖 CAPI - Intelligent Analytics Engine</b></summary>
 <br/>
 
-> **AI-Powered Data Analysis Platform** — Transforming raw data into actionable intelligence
+> **AI-Powered Data Analysis Platform** — Transforming raw data into actionable insight
 
 ```yaml
-Impact: 85% workflow automation
-Capability: Real-time dynamic analytics
-Security: Enterprise-grade protection
-Status: Production @ Scale
+Backend: FastAPI service with LangChain agents
+Retrieval: ChromaDB vector store over PostgreSQL data
+Focus: Dynamic, natural-language analytics
 ```
 
 **Tech Stack:**
@@ -147,47 +151,14 @@ Status: Production @ Scale
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
 <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/ChromaDB-FF6584?style=for-the-badge&logo=&logoColor=white"/>
+<img src="https://img.shields.io/badge/ChromaDB-FF6584?style=for-the-badge"/>
 </p>
 
 **Key Features:**
-- 🧠 Advanced AI-driven insights
+- 🧠 AI-driven insights over structured data
 - ⚡ Real-time data processing
-- 🔐 Multi-layer security architecture
+- 🔐 Layered security
 - 📊 Interactive visualization dashboards
-- 🚀 Horizontal scalability
-
-</details>
-
-<details>
-<summary><b>🩸 RED-DROP M - Blood Bank Network</b></summary>
-<br/>
-
-> **Mission-Critical Distributed Platform** — Connecting lives through technology
-
-```yaml
-Architecture: Event-Driven Microservices
-Real-Time: Apache Kafka Event Streaming
-Scale: Multi-tenant cloud infrastructure
-Impact: Thousands of lives saved
-```
-
-**Tech Stack:**
-<p>
-<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white"/>
-<img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-</p>
-
-**System Components:**
-- 🏥 **Hospital Portal** — Comprehensive management system
-- 📊 **Admin Dashboard** — Real-time analytics & control
-- 👥 **Donor App** — Mobile-first user experience
-- ⚡ **Event Bus** — Kafka-powered message streaming
-- 🔗 **Microservices** — Independently scalable services
 
 </details>
 
@@ -195,14 +166,13 @@ Impact: Thousands of lives saved
 <summary><b>🎥 VAST - Real-Time Collaboration Platform</b></summary>
 <br/>
 
-> **Microservices-Based Collaboration System** — Built for low-latency communication at scale
+> **Microservices-Based Collaboration System** — Built for low-latency communication
 
 ```yaml
-Architecture: Distributed Microservices Platform
+Architecture: Distributed microservices
 Media Layer: WebRTC SFU in Go
-Concurrency: Goroutines + Channel-Based Routing
-Security: Casbin Access Control + AuthN/AuthZ
-Observability: Centralized Audit Logging
+Concurrency: Goroutines + channel-based routing
+Security: Casbin access control + AuthN/AuthZ
 Data: PostgreSQL + ClickHouse
 ```
 
@@ -210,14 +180,13 @@ Data: PostgreSQL + ClickHouse
 <p>
 <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
 <img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white"/>
-<img src="https://img.shields.io/badge/Casbin-409EFF?style=for-the-badge&logo=&logoColor=white"/>
+<img src="https://img.shields.io/badge/Casbin-409EFF?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=black"/>
-<img src="https://img.shields.io/badge/Microservices-0A0A0A?style=for-the-badge&logo=&logoColor=white"/>
 </p>
 
 **Core Highlights:**
-- 🧩 **Microservices Design** — Independent services for scalable collaboration flows
+- 🧩 **Microservices Design** — Independent services for collaboration flows
 - ⚡ **High-Performance SFU** — Optimized media forwarding and connection handling
 - 🔐 **Policy-Driven Security** — Casbin-based access control integrated with authentication
 - 🧾 **Audit-First Architecture** — Centralized logs across services for traceability
@@ -228,14 +197,13 @@ Data: PostgreSQL + ClickHouse
 <summary><b>🛰️ RedSentinel - Redis Observability Platform</b></summary>
 <br/>
 
-> **Real-time Redis Observability & Command Tracing System** — Full visibility into Redis workloads
+> **Real-time Redis Observability & Command Tracing** — Full visibility into Redis workloads
 
 ```yaml
-Domain: Redis / Redis Cluster Observability
-Streaming: NATS JetStream Event Backbone
-Storage: Structured Command Logs in SQLite
+Domain: Redis / Redis Cluster observability
+Streaming: NATS JetStream event backbone
+Storage: Structured command logs in SQLite
 Monitoring: Prometheus + Grafana
-Focus: Incident Analysis + Workload Visibility
 ```
 
 **Tech Stack:**
@@ -251,7 +219,7 @@ Focus: Incident Analysis + Workload Visibility
 - 🔍 Capture Redis commands across standalone and cluster deployments
 - 📡 Durable event streaming and replay via JetStream
 - 🗂️ Queryable command traces for dashboards and analytics
-- 🧠 Cluster-aware visibility across nodes, slots, and replica topology
+- 🧠 Cluster-aware visibility across nodes, slots and replica topology
 
 </details>
 
@@ -259,14 +227,12 @@ Focus: Incident Analysis + Workload Visibility
 <summary><b>🔔 SkyBell - Notification Infrastructure</b></summary>
 <br/>
 
-> **Enterprise Notification Service** — Built for performance, scaled for millions
+> **Multi-Tenant Notification Service** — Real-time delivery over gRPC and WebSockets
 
 ```yaml
-Architecture: Distributed Notification System
-Protocol: gRPC + WebSocket
-Queue: BullMQ with Redis backing
-Throughput: 1M+ notifications/hour
-Latency: <50ms p99
+Architecture: Distributed notification system
+Protocols: gRPC + WebSocket
+Queue: BullMQ backed by Redis
 ```
 
 **Tech Stack:**
@@ -275,15 +241,14 @@ Latency: <50ms p99
 <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
 <img src="https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
 <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white"/>
-<img src="https://img.shields.io/badge/BullMQ-FF6B6B?style=for-the-badge&logo=&logoColor=white"/>
+<img src="https://img.shields.io/badge/BullMQ-FF6B6B?style=for-the-badge"/>
 </p>
 
 **Core Features:**
 - 🎯 **Dynamic Namespaces** — Multi-tenant isolation
 - 🔐 **Auth & Authorization** — JWT-based security
-- ⚙️ **Job Concurrency** — Advanced queue management
-- 📡 **Bi-directional Comms** — Real-time updates
-- 🚀 **High Performance** — Optimized for speed
+- ⚙️ **Job Concurrency** — Queue-based delivery with retries
+- 📡 **Bi-directional Comms** — Real-time updates to clients
 
 </details>
 
@@ -293,63 +258,12 @@ Latency: <50ms p99
 
 <br/>
 
-<!-- Skills Matrix -->
-<div align="center">
-
-## 💎 **Core Competencies**
-
-</div>
-
-### 🏗️ Distributed Systems Architecture
-```diff
-+ System Design & Scalability    ████████████████████░ 95%
-+ Load Balancing & High Availability    ████████████████████░ 92%
-+ Service Mesh & Network Optimization   ████████████████████░ 90%
-+ Fault Tolerance & Circuit Breakers    ████████████████████░ 88%
-```
-
-### ⚡ Microservices & API Design
-```diff
-+ RESTful & GraphQL APIs         ████████████████████░ 94%
-+ gRPC & Event-Driven Systems    ████████████████████░ 93%
-+ API Gateway & Service Discovery████████████████████░ 91%
-+ Container Orchestration        ████████████████████░ 89%
-```
-
-### 🔥 Real-Time & Event Streaming
-```diff
-+ WebSocket & Server-Sent Events ████████████████████░ 96%
-+ Apache Kafka & Message Queues  ████████████████████░ 93%
-+ Pub/Sub Architectures          ████████████████████░ 92%
-+ Real-Time Data Processing      ████████████████████░ 90%
-```
-
-### 🗄️ Database & Caching Strategies
-```diff
-+ SQL Optimization & Query Design████████████████████░ 93%
-+ NoSQL & Document Stores        ████████████████████░ 91%
-+ Redis & Distributed Caching    ████████████████████░ 94%
-+ Database Sharding & Replication████████████████████░ 88%
-```
-
-<br/>
-
----
-
-<br/>
-
-
-
 <!-- Organizations -->
 <div align="center">
 
 ## 🌐 **Community & Organizations**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=4ECDC4&center=true&vCenter=true&width=700&lines=Active+contributor+across+multiple+tech+organizations" alt="Organizations Animation" />
-
-<br/><br/>
-
-**Capturini** • **Envirm** • **GDG Algiers** • **ISDBI** • **Orka-Tatweer** • **Red-Drop-M** • **RooninKai** • **Saitrm** • **The Basee**
+**Capturini** • **Envirm** • **GDG Algiers** • **ISDBI** • **Orka-Tatweer** • **RooninKai** • **Saitrm** • **The Basee**
 
 </div>
 
@@ -364,10 +278,13 @@ Latency: <50ms p99
 
 ## ⏱️ **Coding Insights**
 
+</div>
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-<!-- GitHub Activity Graph -->
+<div align="center">
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=hikiuzrx&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=F85D7F&line=F8D866&point=F85D7F" />
 
 </div>
@@ -398,28 +315,10 @@ Latency: <50ms p99
 
 <br/><br/>
 
-### 📫 **Open for:**
-**Collaboration** • **Consulting** • **Speaking Opportunities** • **Open Source Contributions**
-
-</div>
+**Open for:** Collaboration • Freelance & Consulting • Open Source
 
 <br/>
 
----
-
-<br/>
-
-<!-- Footer -->
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=95E1D3&center=true&vCenter=true&width=600&lines=Building+tomorrow's+systems+today+%F0%9F%9A%80;Code+with+passion,+architect+with+precision" alt="Footer Animation" />
-
-<br/><br/>
-**Made with** ❤️ **and a lot of** ☕ **by Hiki ZRX**
-
-<br/>
-
-<!-- Animated Footer Wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
 
 </div>
