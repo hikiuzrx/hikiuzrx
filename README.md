@@ -1,12 +1,10 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=HIKI%20ZRX&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff&desc=Backend%20Architect%20%7C%20Distributed%20Systems%20Engineer&descAlignY=55&descSize=20"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=HIKI%20ZRX&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff&desc=Software%20Engineer%20%7C%20Backend%20and%20DevOps&descAlignY=55&descSize=20"/>
 
-<!-- Typing Animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Building+Scalable+Distributed+Systems;Event-Driven+Architecture;Microservices+%7C+Real-Time+Systems;AI-Powered+Backends" alt="Typing SVG" /></a>
+# Hi, I'm Ramzi "Hiki ZRX" Gueracha 👋
 
-<br/><br/>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Software+Engineer;Backend+and+DevOps;Distributed+and+Event-Driven+Systems;AI-Powered+Backends" alt="Typing SVG" /></a>
 
 <img src="https://komarev.com/ghpvc/?username=hikiuzrx&color=blueviolet&style=for-the-badge&label=PROFILE+VISITORS" />
 <img src="https://img.shields.io/github/followers/hikiuzrx?style=for-the-badge&color=blue&label=FOLLOWERS&logo=github" />
@@ -15,17 +13,14 @@
 
 <br/>
 
----
+I'm a **software engineer** from Algeria working across **backend** and **DevOps**.
 
-<br/>
+I like owning a system end to end: designing the services, wiring them together, and getting them running reliably in the cloud.
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=440&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Ramzi+%22Hiki+ZRX%22+Gueracha" alt="Name Animation" />
-</div>
-
-<br/>
-
-Backend engineer focused on **distributed systems**, **event-driven architecture** and **real-time platforms**. I build microservices in NestJS, FastAPI and Go, wire them together with NATS JetStream, Kafka and gRPC, and increasingly put AI agents on top of them.
+- ⚙️ **Backend** — microservices in NestJS, FastAPI and Go, event-driven with NATS JetStream and Kafka, gRPC and WebSockets for real-time
+- ☁️ **DevOps** — Docker, CI/CD with GitHub Actions, infrastructure on AWS and GCP, observability with Prometheus and Grafana
+- 🤖 **AI systems** — agent pipelines, RAG and self-hosted LLMs wired into production backends
+- 🗄️ **Data** — PostgreSQL, MongoDB, Redis, Cassandra, ClickHouse, InfluxDB, Oracle
 
 <br/>
 
@@ -301,6 +296,7 @@ Queue: BullMQ backed by Redis
 <br/><br/>
 
 **Open for:** Collaboration • Freelance & Consulting • Open Source
+
 
 <br/>
 
