@@ -281,6 +281,36 @@ Queue: BullMQ backed by Redis
 </div>
 
 <!--START_SECTION:waka-->
+**🐱 My GitHub Data** 
+
+> 📦 156.1 kB Used in GitHub's Storage 
+ > 
+> 🏆 476 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 33 Public Repositories 
+ > 
+> 🔑 26 Private Repositories 
+ > 
+**I Mostly Code in TypeScript** 
+
+```text
+TypeScript               47 repos            ██████████████░░░░░░░░░░░   54.65 % 
+Python                   13 repos            ████░░░░░░░░░░░░░░░░░░░░░   15.12 % 
+Go                       6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
+Swift                    3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
+HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/hikiuzrx/hikiuzrx/master/assets/bar_graph.png)
+
+
+ Last Updated on 28/09/2026 23:04:25 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
