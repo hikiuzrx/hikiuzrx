@@ -50,12 +50,7 @@ Backend engineer focused on **distributed systems**, **event-driven architecture
 
 ### **Messaging & Real-Time**
 <p>
-<img src="https://img.shields.io/badge/NATS_JetStream-27AAE1?style=for-the-badge&logo=natsdotio&logoColor=white" />
-<img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
-<img src="https://img.shields.io/badge/gRPC-244c5a?style=for-the-badge&logo=grpc&logoColor=white" />
-<img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
-<img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white" />
-<img src="https://img.shields.io/badge/BullMQ-FF6B6B?style=for-the-badge" />
+<img src="icons/messaging.svg" />
 </p>
 
 ### **Databases & Caching**
@@ -63,11 +58,7 @@ Backend engineer focused on **distributed systems**, **event-driven architecture
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite,prisma&theme=dark" />
 </p>
 <p>
-<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-<img src="https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apachecassandra&logoColor=white" />
-<img src="https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=black" />
-<img src="https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=influxdb&logoColor=white" />
-<img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge" />
+<img src="icons/databases.svg" />
 </p>
 
 ### **Frontend & UI**
@@ -114,10 +105,10 @@ Models: Local Ollama by default, or Qwen on a self-hosted vLLM GPU with automati
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/NATS_JetStream-27AAE1?style=for-the-badge&logo=natsdotio&logoColor=white"/>
-<img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white"/>
 <img src="https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge&logo=minio&logoColor=white"/>
 <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white"/>
-<img src="https://img.shields.io/badge/vLLM-30A2FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/vLLM-30A2FF?style=for-the-badge&logo=vllm&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </p>
 
@@ -149,9 +140,8 @@ Focus: Dynamic, natural-language analytics
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/ChromaDB-FF6584?style=for-the-badge"/>
 </p>
 
 **Key Features:**
@@ -180,7 +170,6 @@ Data: PostgreSQL + ClickHouse
 <p>
 <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
 <img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white"/>
-<img src="https://img.shields.io/badge/Casbin-409EFF?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=black"/>
 </p>
@@ -239,9 +228,9 @@ Queue: BullMQ backed by Redis
 <p>
 <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
-<img src="https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-<img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white"/>
-<img src="https://img.shields.io/badge/BullMQ-FF6B6B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/gRPC-244c5a?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGZpbGw9IiNmZmYiIHZpZXdCb3g9IjAgMCAxMjggMTI4Ij48cGF0aCBkPSJNOC44IDM4IDAgNDdsOSA4LjggMy40LTMuNUg5LjNsLTUuNC01LjQgNS4zLTUuNGgzLjJ6bTMuNiAzLjUuNy43LjctLjd6bS43LjctNCA0LjFoOHptNCA0IC42LjctLjYuNmgxMS40bC0uNi0uNy42LS42em0xMS40IDBoNC4ybC0yLjEtMmgyLjNsMi43IDIuNi0yLjcgMi43aC0yLjNsMi41IDIuNSA1LjItNS4yLTUuMi01LjJ6bTIuMSAzLjMgMi0yaC00em0tMTMuNS0yaC04bDQgNHptLTQgNC0uNy44aDEuNHptMTAyLjQtNy43YTE4IDE4IDAgMCAwLTEyLjYgNSAxNyAxNyAwIDAgMC0zLjcgNS43UTk4IDU3LjggOTggNjEuNnEwIDQgMS4zIDcuMWExNyAxNyAwIDAgMCAxNi4zIDEwLjdxMiAwIDQtLjVhMTcgMTcgMCAwIDAgMy41LTEuMyAxMyAxMyAwIDAgMCAyLjktMmwyLjEtMi40LTIuOC0ycS0xIDEuNS0yIDIuNGExMCAxMCAwIDAgMS0yLjUgMS42cS0xLjIuNi0yLjYuOGwtMi42LjJhMTQgMTQgMCAwIDEtMTAuMi00LjQgMTQgMTQgMCAwIDEtMi43LTQuNiAxNiAxNiAwIDAgMS0xLTUuNnEwLTMgMS01LjZhMTMgMTMgMCAwIDEgMTUuNi04LjcgMTMgMTMgMCAwIDEgNC41IDIuNXExIC45IDEuNSAxLjZsMy0yLjJxLTIuMi0zLTUuNC00LjFhMTcgMTcgMCAwIDAtNi4zLTEuM20tNzEuNS45djMzLjhoMy40VjYyLjhoNS43bDkuMyAxNS43aDQuMmwtOS43LTE2cTQuMi0uNCA2LjQtMi44YTggOCAwIDAgMCAyLjItNnEwLTQuNS0zLTYuOHQtOC4xLTIuMnptMjguNSAwdjMzLjhINzZWNjIuOGg2LjRxNS4xIDAgOC0yLjN0My02LjgtMy02LjgtOC0yLjJ6bS0yNS4xIDMuMmg2LjFxMi4yIDAgMy45LjR0Mi42IDEuM3EuOS43IDEuMyAxLjkuNSAxIC41IDIuMnQtLjUgMi4zYTUgNSAwIDAgMS0xLjMgMnEtMSAuNy0yLjYgMS4ydC0zLjkuNGgtNi4xem0yOC42IDBoNS41cTIuMyAwIDMuOS40dDIuNSAxLjNxMSAuNyAxLjQgMS45YTYgNiAwIDAgMSAuNSAyLjJxMCAxLjMtLjUgMi4zYTUgNSAwIDAgMS0xLjQgMnEtLjkuNy0yLjUgMS4yLTEuNS40LTQgLjRINzZ6bS01My4zIDcuN3EtMi41IDAtNC42LjlhMTEgMTEgMCAwIDAtMy42IDIuNCAxMiAxMiAwIDAgMC0yLjMgMy43IDEyIDEyIDAgMCAwIDAgOSAxMSAxMSAwIDAgMCAyLjUgMy43IDEyIDEyIDAgMCAwIDMuNyAyLjRxMi4xLjggNC42LjhhMTIgMTIgMCAwIDAgNC42LTEgOSA5IDAgMCAwIDMuNy0zLjJoLjF2NHEwIDEuOS0uNCAzLjRhNyA3IDAgMCAxLTEuNSAyLjggNyA3IDAgMCAxLTIuNyAycS0xLjcuNi00IC42LTIuOCAwLTUtMS4xYTEwIDEwIDAgMCAxLTMuNi0zbC0yLjQgMi41QTE0IDE0IDAgMCAwIDIyLjYgOTBhMTQgMTQgMCAwIDAgNi0xLjIgMTAgMTAgMCAwIDAgMy43LTIuOCAxMCAxMCAwIDAgMCAxLjgtMy44cS41LTIuMS41LTMuOVY1Ni4yaC0zLjJ2My43cS0xLTEuMy0yLjEtMi4xTDI3IDU2LjRsLTIuMi0uNnptLjQgMi45cTEuOSAwIDMuNS42dDIuNyAyYTggOCAwIDAgMSAxLjYgMi42IDEwIDEwIDAgMCAxIC42IDMuNHEwIDEuOS0uNiAzLjVhOCA4IDAgMCAxLTEuOCAyLjcgOSA5IDAgMCAxLTIuOCAxLjcgOSA5IDAgMCAxLTMuMi42cS0xLjggMC0zLjMtLjZhOSA5IDAgMCAxLTIuNi0yIDkgOSAwIDAgMS0xLjgtMi42IDkgOSAwIDAgMS0uNy0zLjMgOSA5IDAgMCAxIC43LTMuNCA5IDkgMCAwIDEgMS44LTIuNyA5IDkgMCAwIDEgMi42LTEuOSA4IDggMCAwIDEgMy4zLS42Ii8%2BPC9zdmc%2B"/>
+<img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white"/>
+<img src="https://img.shields.io/badge/BullMQ-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
 </p>
 
 **Core Features:**
@@ -276,46 +265,12 @@ Queue: BullMQ backed by Redis
 <!-- Coding Activity -->
 <div align="center">
 
-## ⏱️ **Coding Insights**
+## 📈 **Contribution Activity**
 
-</div>
-
-<!--START_SECTION:waka-->
-**🐱 My GitHub Data** 
-
-> 📦 156.1 kB Used in GitHub's Storage 
- > 
-> 🏆 476 Contributions in the Year 2026
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 33 Public Repositories 
- > 
-> 🔑 26 Private Repositories 
- > 
-**I Mostly Code in TypeScript** 
-
-```text
-TypeScript               47 repos            ██████████████░░░░░░░░░░░   54.65 % 
-Python                   13 repos            ████░░░░░░░░░░░░░░░░░░░░░   15.12 % 
-Go                       6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
-Swift                    3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
-HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
-```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/hikiuzrx/hikiuzrx/master/assets/bar_graph.png)
-
-
- Last Updated on 28/09/2026 23:04:25 UTC
-<!--END_SECTION:waka-->
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hikiuzrx&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=F85D7F&line=F8D866&point=F85D7F" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hikiuzrx/hikiuzrx/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="Contribution graph" src="https://raw.githubusercontent.com/hikiuzrx/hikiuzrx/output/github-contribution-grid-snake.svg" />
+</picture>
 
 </div>
 
